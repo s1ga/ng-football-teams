@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   standalone: true,
   selector: 'app-header',
   template: `
-    <header class="h-12 p-5 bg-blue-900 text-white flex items-center">
+    <header class="h-16 p-8 bg-blue-900 text-white text-2xl flex items-center">
       <h1>Football teams</h1>
     </header>
   `,
